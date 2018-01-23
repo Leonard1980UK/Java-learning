@@ -19,14 +19,14 @@ Constraints:
 
 Example:
 
-Input:
-1
-4
-1 2 3 4
-3
+Input:<br />
+1<br />
+4<br />
+1 2 3 4<br />
+3<br />
 
-Output:
-2
+Output:<br />
+2<br />
 
 Explanation:
 There is one test case with array as {1, 2, 3 4} and element to be searched as 3.  Since 3 is present at index 2, output is 2
