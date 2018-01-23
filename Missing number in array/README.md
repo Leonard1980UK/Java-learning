@@ -1,4 +1,5 @@
 <h1>Project 0001 Missing number in array</h1>
+<h3>Difficulty: Basic </h3>
 Given an array of size n-1 and given that there are numbers from 1 to n with one missing, the missing number is to be found.
 
 Input:
