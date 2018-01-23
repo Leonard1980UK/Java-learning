@@ -1,4 +1,5 @@
 <h1>Project 0002 Reverse an Array</h1>
+<h3>Difficulty: Basic </h3>
 Given an array, print reverse of it.
 
 Input:
