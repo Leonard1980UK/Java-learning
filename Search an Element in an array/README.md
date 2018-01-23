@@ -1,4 +1,5 @@
 <h1>Project 0003 Search an Element in an array</h1>
+<h3>Difficulty: Basic </h3>
 Given an integer array and an element x, find if element is present in array or not. If element is present, then print index of its first occurrence. Else print -1.
 
 Input:
