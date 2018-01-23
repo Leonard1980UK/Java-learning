@@ -40,13 +40,15 @@ public class LargestElement {
             // input the size of the array
             int n = sc.nextInt();
 
+            //input number of largest elements to be returned
+            int k = sc.nextInt();
+
             // put integers to the array
             for (int i = 0; i < n; i++){
                 arr[i] = sc.nextInt();
             }
 
-            //input number of largest elements to be returned
-            int k = sc.nextInt();
+
 
             sortArray(arr,n,k);
 
