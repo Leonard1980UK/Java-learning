@@ -12,20 +12,20 @@ Output:
 Print the missing number in array.
 
 Constraints:
-
-1 ≤ T ≤ 200
-1 ≤ N ≤ 1000
-1 ≤ C[i] ≤ 1000
+<br />
+1 ≤ T ≤ 200<br />
+1 ≤ N ≤ 1000<br />
+1 ≤ C[i] ≤ 1000<br />
 
 Example:
 
-Input
-2
-5
-1 2 3 5
-10
-1 2 3 4 5 6 7 8 10
+Input<br />
+2<br />
+5<br />
+1 2 3 5<br />
+10<br />
+1 2 3 4 5 6 7 8 10<br />
 
-Output
-4
-9
+Output<br />
+4<br />
+9<br />
