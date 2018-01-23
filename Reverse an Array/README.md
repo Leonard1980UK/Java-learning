@@ -19,10 +19,10 @@ Constraints:
 
 Example:
 
-Input
-1
-4
-1 2 3 4
+Input<br />
+1<br />
+4<br />
+1 2 3 4<br />
 
-Output:
-4 3 2 1
+Output:<br />
+4 3 2 1<br />
