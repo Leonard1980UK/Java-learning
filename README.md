@@ -11,7 +11,7 @@ MEDIUM</br>
 HARD</br>
 
 These problems are from various sites :
-1. https://practice.geeksforgeeks.org/
+1. https://practice.geeksforgeeks.org
 2. https://www.topcoder.com
 
 I am going to extend this list when there is a new site coming
