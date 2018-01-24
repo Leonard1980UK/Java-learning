@@ -1,6 +1,10 @@
 # Java-learning
 
-This repository dedicated for my JAVA learning, I try to share my progress during my study. Levels of these problems are from BASIC to HARD.
+This repository dedicated for my JAVA learning, I try to share my progress during my study. Levels of these problems are:
+BASIC </br>
+EASY </br>
+MEDIUM</br>
+HARD</br>
 These problems are from various sites :
 1. https://practice.geeksforgeeks.org/
 -I am going to extend this list when there is a new site coming

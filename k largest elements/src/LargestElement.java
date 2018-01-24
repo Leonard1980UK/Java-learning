@@ -17,7 +17,7 @@ public class LargestElement {
             }
         }
 
-        //return k largest element
+        //print k largest element
         for (int i = 0; i < k; i++){
             System.out.print(arr[i]);
             System.out.print(' ');
