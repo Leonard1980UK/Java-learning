@@ -2,6 +2,35 @@ import java.util.*;
 import java.lang.*;
 
 public class Substitute {
+    public int getValue(String key, String code){
+        //spilt the key to an char array
+        char[] keyToNr = key.toCharArray();
+
+        // check code length
+        int codeLenght = code.length();
+
+        // using StringBuilder to build decoded value
+        StringBuilder stringBuilder = new StringBuilder();
+
+        // iterate over key and code
+        for (int i=0; i<codeLenght;i++){
+            for (int j=0; j<10;j++){
+                if(code.charAt(i) == keyToNr[j]){
+                    if (j+1 == 10){
+                        stringBuilder.append(0);
+                    }else{
+                        stringBuilder.append(j+1);
+                    }
+
+                }
+            }
+        }
+        // convert strinbuilder value to string
+        String decodedValue=stringBuilder.toString();
+        // return integer value
+        return Integer.parseInt(decodedValue);
+
+    }
 
     public static void main(String[] args) {
         // read key and code
