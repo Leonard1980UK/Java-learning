@@ -1,5 +1,6 @@
 <h1>Project 0007 Square Every Digits</h1>
 <h3>Difficulty: Easy </h3>
+<h4>Problem's website: http://www.codewars.com </h4>
 
 Welcome. Here, you are asked to square every digit of a number.
 
