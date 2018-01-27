@@ -32,7 +32,20 @@ public class LinkedLIst {
         }
     }
 
+    void add(LinkedLIst llist, int data){
 
+        if (head == null){
+            llist.head = new Node(data);
+        }else{
+            Node n = head;
+            while (n.next != null){
+
+            }
+
+        }
+
+
+    }
 
     public static void main(String[] args)
     {
