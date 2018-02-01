@@ -1,4 +1,4 @@
-<h1>Project 0010 0010_DigitalRoot</h1>
+<h1>Project 0010_DigitalRoot</h1>
 <h3>Difficulty: Easy </h3>
 <h4>Problem's website: http://www.codewars.com</h4>
 
