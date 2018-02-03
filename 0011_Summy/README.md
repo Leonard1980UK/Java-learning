@@ -8,4 +8,6 @@ Example
 
 summy("1 2 3")  ==> 6
 
+summy("10 10")  ==> 20
+
 Good luck!
