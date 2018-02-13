@@ -3,13 +3,15 @@ import java.util.Collections;
 import java.util.stream.Collectors;
 
 public class AlternativeSolution {
-    public static String sortTheInnerContent(String words) {
-        return Arrays.asList(words.split(" ")).stream()
+
+    private static String sortTheInnerContent(String words) {
+
+        return Arrays.stream(words.split(" "))
                 .map(word -> word.length() < 3 ? word : word.charAt(0) + sortChars(word) + word.charAt(word.length() - 1))
                 .collect(Collectors.joining(" "));
     }
 
-    public static String sortChars(String word) {
+    private static String sortChars(String word) {
         String[] chars = word.substring(1, word.length() - 1).split("");
         Arrays.sort(chars, Collections.reverseOrder());
         return String.join("", chars);
