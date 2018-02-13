@@ -4,6 +4,7 @@ import java.util.stream.Collectors;
 
 public class AlternativeSolution {
 
+
     private static String sortTheInnerContent(String words) {
 
         return Arrays.stream(words.split(" "))
