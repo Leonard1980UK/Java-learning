@@ -31,7 +31,8 @@ public class SortTheInnerContent {
 
             }else{
                 // if word less than 4 letters do nothing
-                sortedString.append(parts[i] + ' ');
+                String wordWithSpace = parts[i] + ' ';
+                sortedString.append(wordWithSpace);
             }
         }
         // trim the last whitespace
